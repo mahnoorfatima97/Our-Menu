@@ -5,7 +5,7 @@
 h1 {
   /*margin-bottom: 15px;*/
   text-align:center;
-  color:  black;
+  color: black;
   margin-bottom: 15px;
   }
 
@@ -30,7 +30,7 @@ div{
 
 #title1 {
   position: relative;/*when use relative when use absolute?*/
-  background-color:pink;
+  background-color: pink;
   float:right;
   padding-top:20px;
   padding-bottom:20px;
@@ -42,7 +42,7 @@ div{
   }
 #title2 {
   position: relative;
-  background-color:maroon;
+  background-color: maroon;
   float:right;
   padding-top:20px;
   padding-bottom:20px;
