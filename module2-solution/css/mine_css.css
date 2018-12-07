@@ -5,7 +5,7 @@
 h1 {
   /*margin-bottom: 15px;*/
   text-align:center;
-  color: red;
+  color:  black;
   margin-bottom: 15px;
   }
 
@@ -42,7 +42,7 @@ div{
   }
 #title2 {
   position: relative;
-  background-color:red;
+  background-color:maroon;
   float:right;
   padding-top:20px;
   padding-bottom:20px;
@@ -53,7 +53,7 @@ div{
 }
 #title3 {
   position: relative;
-  background-color:yellow;
+  background-color: lightyellow;
   float:right;
   padding-top:20px;
   padding-bottom:20px;
