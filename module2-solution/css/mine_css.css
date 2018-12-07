@@ -42,7 +42,7 @@ div{
   }
 #title2 {
   position: relative;
-  background-color: maroon;
+  background-color: #CC3636;
   float:right;
   padding-top:20px;
   padding-bottom:20px;
@@ -53,7 +53,7 @@ div{
 }
 #title3 {
   position: relative;
-  background-color: lightyellow;
+  background-color: #F7F07B;
   float:right;
   padding-top:20px;
   padding-bottom:20px;
